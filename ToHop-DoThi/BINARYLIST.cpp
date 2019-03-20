@@ -7,7 +7,7 @@ using namespace std;
 int n, k, i;
 
 int count = 0;
-int s[100];
+int s[10000];
 int x1 = 0;
 int flag = -1;
 
